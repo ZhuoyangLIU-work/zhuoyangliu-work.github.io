@@ -3,6 +3,41 @@ languageCode: en-us
 title: "Zhuoyang Liu"
 theme: ["PaperMod"]
 
+params: 
+  defaultTheme: auto
+  disableThemeToggle: true
+  homeInfoParams:
+    Title: Hi! Welcome to my Hub
+    Content: My name is Zhuoyang, a PhD candidate in Operations, Information and Technology at Stanford Graduate School of Business. 
+
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/zhuoyang-liu/"
+    - name: "X"
+      url: "https://x.com/Zhuoyang_Liu"
+    - name: "Stanford"
+      url: "https://www.gsb.stanford.edu/programs/phd/academic-experience/students/zhuoyang-liu"
+     
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 20
+    - identifier: reading
+      name: Reading Notes
+      url: /reading/
+      weight: 30
+#    - identifier: stanfordpage
+#      name: Stanford Page
+#      url: "https://www.gsb.stanford.edu/programs/phd/academic-experience/students/zhuoyang-liu"
+#      weight: 40
+
 
 
 
