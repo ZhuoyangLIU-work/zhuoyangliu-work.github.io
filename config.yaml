@@ -7,8 +7,8 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
   homeInfoParams:
-    Title: Hi there
-    Content: I am Zhuoyang, a PhD candidate of Operations, Information and Technology at Stanford Graduate School of Business. 
+    Title: "Zhuoyang's Homepage"
+    Content: Hi, I am Zhuoyang, 5th year PhD student of Operations, Information and Technology at Stanford Graduate School of Business. My research tackles various challenges for decision-making under uncertainty and information uncertainty, with applications in environmental conservation and healthcare operations. 
 
   socialIcons: # optional
     - name: "LinkedIn"
