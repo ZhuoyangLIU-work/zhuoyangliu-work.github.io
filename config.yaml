@@ -7,8 +7,8 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
   homeInfoParams:
-    Title: Hi! Welcome to my Hub
-    Content: My name is Zhuoyang, a PhD candidate in Operations, Information and Technology at Stanford Graduate School of Business. 
+    Title: Hi there
+    Content: I am Zhuoyang, a PhD candidate of Operations, Information and Technology at Stanford Graduate School of Business. 
 
   socialIcons: # optional
     - name: "LinkedIn"
