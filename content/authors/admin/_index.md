@@ -57,10 +57,10 @@ education:
     date_start: 2020-09-20
     date_end: 2026-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis on decisions under information asymmetry and uncertainty with applications in environmental conservation and healthcare operations. Supervised by [Prof Dan Iancu](https://web.stanford.edu/~daniancu/index.html) and [Prof Itai Ashlagi](https://profiles.stanford.edu/itai-ashlagi). 
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
   - area: BSc Applied Mathematics
     institution: The Chinese University of Hong Kong, Shenzhen
     date_start: 2016-09-01
